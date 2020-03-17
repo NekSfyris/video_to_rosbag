@@ -1,6 +1,6 @@
 # video_to_rosbag
 
-A ROS based package that takes as input a video file and makes it a rosbag under 'camera/color/image_raw' topic.
+A ROS package that takes as input a video file and makes it a rosbag under 'camera/color/image_raw' topic.
 
 Has been tested for ros-kinetic and opencv 3.3.0 .
 
