@@ -2,7 +2,7 @@
 
 A ROS package that takes as input a video file and makes it a rosbag under 'camera/color/image_raw' topic.
 
-Has been tested for ros-kinetic and OpenCV 3.3.0 .
+Has been tested for ROS-Kinetic and OpenCV 3.3.0 .
 
 ### Run
 
